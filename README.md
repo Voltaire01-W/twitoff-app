@@ -1,2 +1,3 @@
-# twitoff-app
-twitoff application for lambda school
+# twitoff-13
+
+Twitoff webapp comparing users' tweets
